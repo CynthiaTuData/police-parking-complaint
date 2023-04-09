@@ -1,0 +1,78 @@
+properties.title,number,address,inquiry,lat,long,properties.description
+1st Precinct,(212) 334-0611,16 Ericsson Place,"16+Ericsson+Place,+New+York,+NY",40.7202702,-74.0071976,20
+5th Precinct,(212) 334-0711,19 Elizabeth Street,"19+Elizabeth+Street,+New+York,+NY",40.7161942,-73.9974699,18
+6th Precinct,(212) 741-4811,233 West 10 Street,"233+West+10+Street,+New+York,+NY",40.7342332,-74.0054532,19
+7th Precinct,(212) 477-7311,19 1/2 Pitt Street,"19+1/2+Pitt+Street,+New+York,+NY",40.7163708,-73.9840589,25
+9th Precinct,(212) 477-7811,321 East 5 Street,"321+East+5+Street,+New+York,+NY",40.7265591,-73.9878238,9
+10th Precinct,(212) 741-8211,230 West 20th Street,"230+West+20th+Street,+New+York,+NY",40.7427116,-73.998643,22
+13th Precinct,(212) 477-7411,230 East 21st Street,"230+East+21st+Street,+New+York,+NY",40.7367881,-73.9829079,153
+Midtown So. Pct.,(212) 239-9811,357 West 35th Street,"357+West+35th+Street,+New+York,+NY",40.7538954,-73.9948952,38
+17th Precinct,(212) 826-3211,167 East 51st Street,"167+East+51st+Street,+New+York,+NY",40.7567621,-73.9707858,103
+Midtown No. Pct.,(212) 767-8400,306 West 54th Street,"306+West+54th+Street,+New+York,+NY",40.7649517,-73.9851379,26
+19th Precinct,(212) 452-0600,153 East 67th Street,"153+East+67th+Street,+New+York,+NY",40.7671478,-73.9637748,42
+20th Precinct,(212) 580-6411,120 West 82nd Street,"120+West+82nd+Street,+New+York,+NY",40.7840901,-73.974968,63
+Central Park Pct.,(212) 570-4820,86th St & Transverse Road,"86th+St+&+Transverse+Road,+New+York,+NY",40.7780641,-73.9521899,18
+23rd Precinct,(212) 860-6411,162 East 102nd Street,"162+East+102nd+Street,+New+York,+NY",40.7893031,-73.947681,22
+24th Precinct,(212) 678-1811,151 West 100th Street,"151+West+100th+Street,+New+York,+NY",40.796506,-73.9673459,7
+25th Precinct,(212) 860-6511,120 East 119th Street,"120+East+119th+Street,+New+York,+NY",40.8006969,-73.9411026,20
+26th Precinct,(212) 678-1311,520 West 126th Street,"520+West+126th+Street,+New+York,+NY",40.8147516,-73.95639,24
+28th Precinct,(212) 678-1611,2271-89 8th Avenue,"2271-89+8th+Avenue,+New+York,+NY",40.8088502,-73.9525697,49
+30th Precinct,(212) 690-8811,451 West 151st Street,"451+West+151st+Street,+New+York,+NY",40.8287571,-73.9436513,12
+32nd Precinct,(212) 690-6311,250 West 135th Street,"250+West+135th+Street,+New+York,+NY",40.8157306,-73.9453589,40
+33rd Precinct,(212) 927-3200,2207 Amsterdam Avenue,"2207+Amsterdam+Avenue,+New+York,+NY",40.840689,-73.9357066,32
+34th Precinct,(212) 927-9711,4295 Broadway,"4295+Broadway,+New+York,+NY",40.8515464,-73.9353851,115
+40th Precinct,(718) 402-2270,257 Alexander Avenue,"257+Alexander+Avenue,+New+York,+NY",40.8104234,-73.9252126,50
+41st Precinct,(718) 542-4771,1035 Longwood Avenue,"1035+Longwood+Avenue,+New+York,+NY",40.8162239,-73.8956218,8
+42nd Precinct,(718) 402-3887,830 Washington Avenue,"830+Washington+Avenue,+New+York,+NY",40.8224323,-73.9112583,44
+43rd Precinct,(718) 542-0888,900 Fteley Avenue,"900+Fteley+Avenue,+New+York,+NY",40.8230714,-73.8697939,7
+44th Precinct,(718) 590-5511,2 East 169th Street,"2+East+169th+Street,+New+York,+NY",40.8375397,-73.9195776,30
+45th Precinct,(718) 822-5411,2877 Barkley Avenue,"2877+Barkley+Avenue,+New+York,+NY",40.8308706,-73.8273359,30
+46th Precinct,(718) 220-5211,2120 Ryer Avenue,"2120+Ryer+Avenue,+New+York,+NY",40.8539879,-73.9001119,62
+47th Precinct,(718) 920-1211,4111 Laconia Avenue,"4111+Laconia+Avenue,+New+York,+NY",40.8875602,-73.8475441,4
+48th Precinct,(718) 299-3900,450 Cross Bronx Expressway,"450+Cross+Bronx+Expressway,+New+York,+NY",40.8439231,-73.9004465,2
+49th Precinct,(718) 918-2000,2121 Eastchester Road,"2121+Eastchester+Road,+New+York,+NY",40.8560598,-73.8444173,2
+50th Precinct,(718) 543-5700,3450 Kingsbridge Avenue,"3450+Kingsbridge+Avenue,+New+York,+NY",40.8835686,-73.9023166,6
+52nd Precinct,(718) 220-5811,3016 Webster Avenue,"3016+Webster+Avenue,+New+York,+NY",40.8690962,-73.8796672,48
+60th Precinct,(718) 946-3311,2951 West 8th Street,"2951+West+8th+Street,+New+York,+NY",40.576552,-73.9761158,2
+61st Precinct,(718) 627-6611,2575 Coney Island Avenue,"2575+Coney+Island+Avenue,+New+York,+NY",40.5941521,-73.9605042,19
+62nd Precinct,(718) 236-2611,1925 Bath Avenue,"1925+Bath+Avenue,+New+York,+NY",40.6025018,-74.0031348,102
+63rd Precinct,(718) 258-4411,1844 Brooklyn Avenue,"1844+Brooklyn+Avenue,+New+York,+NY",40.627926,-73.941616,132
+66th Precinct,(718) 851-5611,5822 16th Avenue,"5822+16th+Avenue,+New+York,+NY",40.625713,-73.9913819,54
+67th Precinct,(718) 287-3211,2820 Snyder Avenue,"2820+Snyder+Avenue,+New+York,+NY",40.6486648,-73.9502641,86
+68th Precinct,(718) 439-4211,333 65th Street,"333+65th+Street,+New+York,+NY",40.7639625,-73.9601307,5
+69th Precinct,(718) 257-6211,9720 Foster Avenue,"9720+Foster+Avenue,+New+York,+NY",40.648479,-73.9049807,7
+70th Precinct,(718) 851-5511,154 Lawrence Avenue,"154+Lawrence+Avenue,+New+York,+NY",40.6303373,-73.9737354,13
+71st Precinct,(718) 735-0511,421 Empire Boulevard,"421+Empire+Boulevard,+New+York,+NY",40.6645922,-73.9478302,18
+72nd Precinct,(718) 965-6311,830 4th Avenue,"830+4th+Avenue,+New+York,+NY",40.6583216,-74.0008623,16
+73rd Precinct,(718) 495-5411,1470 East New York Avenue,"1470+East+New+York+Avenue,+New+York,+NY",40.6708918,-73.9135581,20
+75th Precinct,(718) 827-3511,1000 Sutter Avenue,"1000+Sutter+Avenue,+New+York,+NY",40.6711825,-73.8815541,11
+76th Precinct,(718) 834-3211,191 Union Street,"191+Union+Street,+New+York,+NY",40.6838295,-74.0002227,1340
+77th Precinct,(718) 735-0611,127 Utica Avenue,"127+Utica+Avenue,+New+York,+NY",40.6746488,-73.9302415,64
+78th Precinct,(718) 636-6411,65 6th Avenue,"65+6th+Avenue,+New+York,+NY",40.6809134,-73.9743152,217
+79th Precinct,(718) 636-6611,263 Tompkins Avenue,"263+Tompkins+Avenue,+New+York,+NY",40.6888622,-73.9447305,111
+81st Precinct,(718) 574-0411,30 Ralph Avenue,"30+Ralph+Avenue,+New+York,+NY",40.6896649,-73.9244548,11
+83rd Precinct,(718) 574-1605,480 Knickerbocker Avenue,"480+Knickerbocker+Avenue,+New+York,+NY",40.6981474,-73.9178411,3
+84th Precinct,(718) 875-6811,301 Gold Street,"301+Gold+Street,+New+York,+NY",40.6955481,-73.9829169,1003
+88th Precinct,(718) 636-6511,298 Classon Avenue,"298+Classon+Avenue,+New+York,+NY",40.6900709,-73.9605316,335
+90th Precinct,(718) 963-5311,211 Union Avenue,"211+Union+Avenue,+New+York,+NY",40.706273,-73.9507692,22
+94th Precinct,(718) 383-3879,100 Meserole Avenue,"100+Meserole+Avenue,+New+York,+NY",40.7266755,-73.9532951,612
+100th Precinct,(718) 318-4200,92-24 Rockaway Beach Boulevard,"92-24+Rockaway+Beach+Boulevard,+New+York,+NY",40.5862884,-73.8165078,16
+101st Precinct,(718) 868-3400,16-12 Mott Avenue,"16-12+Mott+Avenue,+New+York,+NY",40.6029091,-73.7499246,11
+102nd Precinct,(718) 805-3200,87-34 118th Street,"87-34+118th+Street,+New+York,+NY",40.6987209,-73.8315671,21
+103rd Precinct,(718) 657-8181,168-02 P.O Edward Byrne Ave.,"168-02+P.O+Edward Byrne+Ave.,+New+York,+NY",40.667336,-73.807361,
+104th Precinct,(718) 386-3004,64-2 Catalpa Avenue,"64-2+Catalpa+Avenue,+New+York,+NY",40.7043572,-73.8936486,91
+105th Precinct,(718) 776-9090,92-08 222nd Street,"92-08+222nd+Street,+New+York,+NY",40.7262254,-73.735144,5
+106th Precinct,(718) 845-2211,103-53 101st Street,"103-53+101st+Street,+New+York,+NY",40.6822031,-73.8397452,10
+107th Precinct,(718) 969-5100,71-01 Parsons Boulevard,"71-01+Parsons+Boulevard,+New+York,+NY",40.7299091,-73.8106143,386
+108th Precinct,(718) 784-5411,5-47 50th Avenue,"5-47+50th+Avenue,+New+York,+NY",40.7430828,-73.9546724,93
+109th Precinct,(718) 321-2250,37-05 Union Street,"37-05+Union+Street,+New+York,+NY",40.762361,-73.8270199,33
+110th Precinct,(718) 476-9311,94-41 43rd Avenue,"94-41+43rd+Avenue,+New+York,+NY",40.7452193,-73.8700695,24
+111th Precinct,(718) 279-5200,45-06 215th Street,"45-06+215th+Street,+New+York,+NY",40.7602441,-73.7677809,18
+112th Precinct,(718) 520-9311,68-40 Austin Street,"68-40+Austin+Street,+New+York,+NY",40.7223599,-73.8513711,15
+113th Precinct,(718) 712-7733,167-02 Baisley Boulevard,"167-02+Baisley+Boulevard,+New+York,+NY",40.6798013,-73.7756864,1
+114th Precinct,(718) 626-9311,34-16 Astoria Boulevard,"34-16+Astoria+Boulevard,+New+York,+NY",40.7692816,-73.9153276,798
+115th Precinct,(718) 533-2002,92-15 Northern Boulevard,"92-15+Northern+Boulevard,+New+York,+NY",40.7568764,-73.8754942,44
+120th Precinct,(718) 876-8500,78 Richmond Terrace,"78+Richmond+Terrace,+New+York,+NY",40.6446553,-74.0774152,19
+121st Precinct,(718) 697-8700,970 Richmond Avenue,"970+Richmond+Avenue,+New+York,+NY",40.6236765,-74.1503435,
+122nd Precinct,(718) 667-2211,2320 Hylan Boulevard,"2320+Hylan+Boulevard,+New+York,+NY",40.5741179,-74.1055058,
+123rd Precinct,(718) 948-9311,116 Main Street,"116+Main+Street,+New+York,+NY",40.5118436,-74.2500359,3
